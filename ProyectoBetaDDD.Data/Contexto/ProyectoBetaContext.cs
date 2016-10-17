@@ -49,6 +49,8 @@ namespace ProyectoBetaDDD.Data.Contexto
             {
                 if (entry.State == EntityState.Added)
                 {
+
+
                     entry.Property("FechaNacimiento").CurrentValue = DateTime.Now;
 
                 }
