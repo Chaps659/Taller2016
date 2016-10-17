@@ -43,6 +43,7 @@ namespace ProyectoBetaDDD.Data.Contexto
 
         }
 
+        // Configuracion de guardado
         public override int SaveChanges()
         {
             foreach (var entry in ChangeTracker.Entries().Where(entry => entry.Entity.GetType().GetProperty("FechaNacimiento") != null))
