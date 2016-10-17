@@ -1,0 +1,4 @@
+E:\VisualSave\ProyectoBetaDDD\ProyectoBetaDDD.Dominio\bin\Debug\ProyectoBetaDDD.Dominio.dll
+E:\VisualSave\ProyectoBetaDDD\ProyectoBetaDDD.Dominio\bin\Debug\ProyectoBetaDDD.Dominio.pdb
+E:\VisualSave\ProyectoBetaDDD\ProyectoBetaDDD.Dominio\obj\Debug\ProyectoBetaDDD.Dominio.dll
+E:\VisualSave\ProyectoBetaDDD\ProyectoBetaDDD.Dominio\obj\Debug\ProyectoBetaDDD.Dominio.pdb

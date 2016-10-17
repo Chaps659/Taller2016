@@ -1,0 +1,5 @@
+E:\VisualSave\ProyectoBetaDDD\ProyectoBetaDDD.Aplicacion\bin\Debug\ProyectoBetaDDD.Aplicacion.dll
+E:\VisualSave\ProyectoBetaDDD\ProyectoBetaDDD.Aplicacion\bin\Debug\ProyectoBetaDDD.Aplicacion.pdb
+E:\VisualSave\ProyectoBetaDDD\ProyectoBetaDDD.Aplicacion\obj\Debug\ProyectoBetaDDD.Aplicacion.csprojResolveAssemblyReference.cache
+E:\VisualSave\ProyectoBetaDDD\ProyectoBetaDDD.Aplicacion\obj\Debug\ProyectoBetaDDD.Aplicacion.dll
+E:\VisualSave\ProyectoBetaDDD\ProyectoBetaDDD.Aplicacion\obj\Debug\ProyectoBetaDDD.Aplicacion.pdb

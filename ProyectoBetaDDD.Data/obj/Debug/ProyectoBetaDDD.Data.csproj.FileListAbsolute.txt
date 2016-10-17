@@ -1,0 +1,12 @@
+E:\VisualSave\ProyectoBetaDDD\ProyectoBetaDDD.Data\bin\Debug\ProyectoBetaDDD.Data.dll.config
+E:\VisualSave\ProyectoBetaDDD\ProyectoBetaDDD.Data\bin\Debug\ProyectoBetaDDD.Data.dll
+E:\VisualSave\ProyectoBetaDDD\ProyectoBetaDDD.Data\bin\Debug\ProyectoBetaDDD.Data.pdb
+E:\VisualSave\ProyectoBetaDDD\ProyectoBetaDDD.Data\bin\Debug\EntityFramework.dll
+E:\VisualSave\ProyectoBetaDDD\ProyectoBetaDDD.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\VisualSave\ProyectoBetaDDD\ProyectoBetaDDD.Data\bin\Debug\ProyectoBetaDDD.Dominio.dll
+E:\VisualSave\ProyectoBetaDDD\ProyectoBetaDDD.Data\bin\Debug\ProyectoBetaDDD.Dominio.pdb
+E:\VisualSave\ProyectoBetaDDD\ProyectoBetaDDD.Data\bin\Debug\EntityFramework.xml
+E:\VisualSave\ProyectoBetaDDD\ProyectoBetaDDD.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\VisualSave\ProyectoBetaDDD\ProyectoBetaDDD.Data\obj\Debug\ProyectoBetaDDD.Data.csprojResolveAssemblyReference.cache
+E:\VisualSave\ProyectoBetaDDD\ProyectoBetaDDD.Data\obj\Debug\ProyectoBetaDDD.Data.dll
+E:\VisualSave\ProyectoBetaDDD\ProyectoBetaDDD.Data\obj\Debug\ProyectoBetaDDD.Data.pdb
